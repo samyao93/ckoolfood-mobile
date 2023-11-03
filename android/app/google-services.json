@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "639733772747",
+    "project_id": "ckoolfood",
+    "storage_bucket": "ckoolfood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639733772747:android:4dbec79afafcb09c63864e",
+        "android_client_info": {
+          "package_name": "com.ckoolfood.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639733772747-ck9uoq0bc7oba5cnveig8pi1s4qdsb2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEKMjxsbG482Qyfygc_bTO2z8RRvARRBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639733772747-ck9uoq0bc7oba5cnveig8pi1s4qdsb2e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "639733772747-n42driijcrl86p1ool9efprh2duuu9qt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ckoolfood.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
